@@ -1,16 +1,14 @@
-# searchword
+# Dictionary App
 
-A new Flutter project.
+A Dictionary App with the help of RiverPod and Dio
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Dictionary has more than 50000+ words and it's meaning
 
-A few resources to get you started if this is your first Flutter project:
+## ScreenShots:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![alt text](assets/images/1.jpg)
+![alt text](assets/images/2.jpg)
+![alt text](assets/images/3.jpg)
+![alt text](assets/images/4.jpg)
